@@ -4,5 +4,5 @@ def reverse_each_word(string)
     y = x.reverse
     y.join
   end
-
+  y.join
 end
